@@ -1,0 +1,4 @@
+album/*/photos
+album/*/data.json
+album_tool.py
+.idea
