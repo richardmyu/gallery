@@ -1,4 +1,4 @@
+.idea
 album/*/photos
 album/*/data.json
-album_tool.py
-.idea
+# album_tool.py
